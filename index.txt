@@ -30,10 +30,10 @@
 						</div>
 						<nav>
 							<ul>
-								<li><a href="https://a2914475618.github.io/">BLog</a></li>
+								<li><a href="https://luzyi.cn/">BLog</a></li>
 								<li><a href="https://github.com/a2914475618">Github</a></li>
-								<li><a href="https://a2914475618.github.io/about/">About</a></li>
-								<li><a href="https://a2914475618.github.io/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/">Technology</a></li>
+								<li><a href="https://luzyi.cn/about/">About</a></li>
+								<li><a href="https://luzyi.cn/archives/">Archives</a></li>
 								<!--<li><a href="#elements">Elements</a></li>-->
 							</ul>
 						</nav>
